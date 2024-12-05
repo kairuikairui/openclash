@@ -19,6 +19,7 @@ payload:
   - DOMAIN,icons.axm-usercontent-apple.com
   - DOMAIN,lookup-api.apple.com.edgekey.net
   - DOMAIN,p-events-delivery.akamaized.net
+  - DOMAIN-SUFFIX,cisco.com
   - DOMAIN-SUFFIX,100beatscheap.com
   - DOMAIN-SUFFIX,1monsterbeatsbydreus.com
   - DOMAIN-SUFFIX,1to1computing.com.au
