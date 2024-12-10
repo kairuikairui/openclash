@@ -437,6 +437,7 @@ payload:
   - DOMAIN,zzlive.zzc-media.com
   - DOMAIN,zzq12345.gearhostpreview.com
   - DOMAIN,weizhiyundong.list
+  - DOMAIN-SUFFIX,cisco.com
   - DOMAIN-SUFFIX,168kaifu.com
   - DOMAIN-SUFFIX,17173-inc.com
   - DOMAIN-SUFFIX,17173.net
