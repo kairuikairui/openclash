@@ -13,6 +13,7 @@ payload:
   - DOMAIN,e13252.dscg.akamaiedge.net
   - DOMAIN,h-netflix.online-metrix.net
   - DOMAIN,netflix.com.edgesuite.net
+  - DOMAIN-SUFFIX,browserleaks.com
   - DOMAIN-SUFFIX,cookielaw.org
   - DOMAIN-SUFFIX,fast.com
   - DOMAIN-SUFFIX,flxvpn.net
