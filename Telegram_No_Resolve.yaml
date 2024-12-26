@@ -13,6 +13,7 @@
 payload:
   - DOMAIN,api.imem.app
   - DOMAIN,api.swiftgram.app
+  - DOMAIN-SUFFIX,reddit.com
   - DOMAIN-SUFFIX,cdn-telegram.org
   - DOMAIN-SUFFIX,comments.app
   - DOMAIN-SUFFIX,contest.com
